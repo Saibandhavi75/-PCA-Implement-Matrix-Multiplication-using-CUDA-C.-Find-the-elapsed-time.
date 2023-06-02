@@ -149,6 +149,6 @@ Elapsed Time: 0.000037 seconds
                     0.00%     930ns         2     465ns     210ns     720ns  cuDeviceGet
                     0.00%     310ns         1     310ns     310ns     310ns  cuDeviceGetUuid
 ```
-![output](![image](https://github.com/Saibandhavi75/-PCA-Implement-Matrix-Multiplication-using-CUDA-C.-Find-the-elapsed-time./assets/94208895/feba6953-47df-4b53-9751-4486e3d75d2d)?raw=true)
+![output](![image](https://github.com/Saibandhavi75/-PCA-Implement-Matrix-Multiplication-using-CUDA-C.-Find-the-elapsed-time./blob/main/51.png?raw=true)
 ## Result:
 Thus, the program to implement matrix multiplication using the GPU has been successfully executed.
